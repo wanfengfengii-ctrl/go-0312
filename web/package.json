@@ -1,0 +1,17 @@
+{
+  "name": "truss-thickplate-weld-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "会展中心桁架超厚钢板焊缝拘束拆除与受力转换闭环 — 前端页面",
+  "engines": {
+    "node": ">=18 <23"
+  },
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "5.4.11"
+  }
+}
